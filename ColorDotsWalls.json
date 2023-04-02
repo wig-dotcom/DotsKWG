@@ -1,5 +1,35 @@
 [
 	{
+		"name": " Wall 16",
+		"author": "Unsplash",
+		"url": "https://github.com/wig-dotcom/ColorDotsKWGT/raw/main/Untitled%20design%20(13).png",
+		"downloadable": false
+	},
+	{
+		"name": " Wall 17",
+		"author": "Unsplash",
+		"url": "https://github.com/wig-dotcom/ColorDotsKWGT/raw/main/Untitled%20design%20(15).png",
+		"downloadable": false
+	},
+	{
+		"name": " Wall 18",
+		"author": "Unsplash",
+		"url": "https://github.com/wig-dotcom/ColorDotsKWGT/raw/main/Untitled%20design%20(17).png",
+		"downloadable": false
+	},
+	{
+		"name": " Wall 19",
+		"author": "Onsplash",
+		"url": "https://github.com/wig-dotcom/ColorDotsKWGT/raw/main/Untitled%20design%20(20).png",
+		"downloadable": false
+	},
+	{
+		"name": " Wall 20",
+		"author": "Unsplash",
+		"url": "https://github.com/wig-dotcom/ColorDotsKWGT/raw/main/Untitled%20design%20(21).png",
+		"downloadable": false
+	{
+	},
 		"name": " Wall 1",
 		"author": "Unsplash",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ColorDotsKWGT/main/Untitled%20design%20(60).png",
@@ -19,7 +49,7 @@
 	},
 	{
 		"name": " Wall 4",
-		"author": "Onsplash",
+		"author": "Unsplash",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ColorDotsKWGT/main/Untitled%20design%20(65).png",
 		"downloadable": false
 	},
